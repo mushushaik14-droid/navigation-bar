@@ -1,0 +1,150 @@
+/* body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(180deg, #f8fafc, #e2e8f0);
+    color: #1f2937;
+}
+
+header {
+    background: linear-gradient(90deg, #0f172a, #1d4ed8);
+    padding: 20px 15px;
+    border-bottom: 4px solid #facc15;
+}
+
+header form {
+    margin: 10px 0;
+}
+
+header input[type="text"],
+header input[type="search"] {
+    padding: 10px 12px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    width: 280px;
+    max-width: 90%;
+}
+
+header button {
+    padding: 10px 16px;
+    border: none;
+    border-radius: 8px;
+    background: #facc15;
+    color: #111827;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+header button:hover {
+    background: #fde047;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table tr td {
+    background: #0f172a;
+    color: white;
+    padding: 14px 10px;
+    border: 1px solid #334155;
+    text-align: center;
+    font-weight: bold;
+}
+
+table tr td a {
+    color: white;
+    text-decoration: none;
+}
+
+table tr td:hover {
+    background: #1e293b;
+}
+
+#home {
+    background: linear-gradient(135deg, #eff6ff, #dbeafe);
+    padding: 25px;
+    margin: 15px;
+    border-radius: 12px;
+}
+
+#categories {
+    background: linear-gradient(135deg, #ecfeff, #cffafe);
+    padding: 25px;
+    margin: 15px;
+    border-radius: 12px;
+}
+
+#electronic {
+    background: linear-gradient(135deg, #fef3c7, #fde68a);
+    padding: 25px;
+    margin: 15px;
+    border-radius: 12px;
+}
+
+#entertainment {
+    background: linear-gradient(135deg, #fce7f3, #fbcfe8);
+    padding: 25px;
+    margin: 15px;
+    border-radius: 12px;
+}
+
+#games {
+    background: linear-gradient(135deg, #ede9fe, #ddd6fe);
+    padding: 25px;
+    margin: 15px;
+    border-radius: 12px;
+}
+
+#kitchen {
+    background: linear-gradient(135deg, #dcfce7, #bbf7d0);
+    padding: 25px;
+    margin: 15px;
+    border-radius: 12px;
+}
+
+#furniture {
+    background: linear-gradient(135deg, #fef2f2, #fecaca);
+    padding: 25px;
+    margin: 15px;
+    border-radius: 12px;
+}
+
+#deals {
+    background: linear-gradient(135deg, #fff7ed, #fed7aa);
+    padding: 25px;
+    margin: 15px;
+    border-radius: 12px;
+}
+
+#orders {
+    background: linear-gradient(135deg, #f8fafc, #e2e8f0);
+    padding: 25px;
+    margin: 15px;
+    border-radius: 12px;
+}
+
+#profile {
+    background: linear-gradient(135deg, #e0f2fe, #bae6fd);
+    padding: 25px;
+    margin: 15px;
+    border-radius: 12px;
+}
+
+#home ul, #categories ul, #electronic ul, #entertainment ul,
+#games ul, #kitchen ul, #furniture ul, #deals ul, #orders ul, #profile ul {
+    background: rgba(255, 255, 255, 0.7);
+    padding: 15px 25px;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: left;
+}
+
+footer {
+    background: linear-gradient(90deg, #111827, #0f172a);
+    color: white;
+    text-align: center;
+    padding: 25px 15px;
+    border-top: 4px solid #facc15;
+    margin-top: 20px;
+} */
